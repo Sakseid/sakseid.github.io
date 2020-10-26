@@ -1,8 +1,19 @@
 body {
-	background-color: lightgreen;
+	background-color: #171716;
 }
 
 h1 {
-	color: blue;
+	color: lightgrey;
 	margin-left: 20px;
+	font-family: lucida-console;
+}
+
+a {
+	color: grey;
+	font-family: lucida-console;
+}
+
+p {
+	color: lightgrey;
+	font-family: lucida-console;
 }
