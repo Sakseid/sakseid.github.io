@@ -5,16 +5,16 @@ body {
 h1 {
 	color: lightgrey;
 	margin-left: 20px;
-	font-family: lucida-console, Courier, monospace;
+	font-family: Lucida-Console, Courier, monospace;
 }
 
 a {
 	color: grey;
-	font-family: lucida-console, Courier, monospace;
+	font-family: Lucida-Console, Courier, monospace;
 }
 
 p {
 	color: lightgrey;
 	margin-left: 20px;
-	font-family: lucida-console, Courier, monospace;
+	font-family: Lucida-Console, Courier, monospace;
 }
